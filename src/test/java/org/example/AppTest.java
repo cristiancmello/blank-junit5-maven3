@@ -8,5 +8,6 @@ public class AppTest {
   @Test
   public void hello() {
     assertTrue(true);
+    assertFalse(false);
   }
 }
